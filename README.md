@@ -4,3 +4,6 @@ When you use analytics software, you often get flucuations in views. Let's say y
 * Spell checks the contents
 * Double checks to make sure all links are ok and non 404
 * Auto caps title links
+* Asks you if you want to caps a link. So inline links are only effected if you choose them to be
+* Automatically adds space between emoji and the first word
+* removes full stops from links
